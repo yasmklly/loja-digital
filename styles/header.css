@@ -1,0 +1,20 @@
+header {
+    height: 64px;
+    display: flex;
+    justify-content: center;
+
+    a {
+        width: 174px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 4.36px;
+
+        span{
+            font-size: 19.85px;
+            color: #C92071;
+            font-weight: 600;
+        }
+    }
+    
+}
