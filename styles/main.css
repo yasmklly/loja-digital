@@ -117,4 +117,8 @@ main {
             }
         }
     }
+
+    .banner{
+        display: none;
+    }
 }
